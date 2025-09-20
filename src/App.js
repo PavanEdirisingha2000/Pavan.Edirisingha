@@ -118,7 +118,7 @@ function App() {
 
   return (
     <ThemeProvider>
-      <Router basename="/portfolio-react">
+      <Router basename="/Pavan.Edirisingha">
         <div className="App">
           <PageLoader />
           
