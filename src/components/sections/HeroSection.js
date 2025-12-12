@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const HeroSection = () => {
   const [displayText, setDisplayText] = useState('');
   const texts = [
-    'Computer Science Undergraduate',
+    'Computer Science Graduate',
     'Full Stack Mobile Developer',
     'Problem Solver',
     'Innovation Enthusiast'
