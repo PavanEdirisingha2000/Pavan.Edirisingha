@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Pavan.Edirisingha/static/css/main.0a2e26ba.css",
-    "main.js": "/Pavan.Edirisingha/static/js/main.0f814051.js",
+    "main.js": "/Pavan.Edirisingha/static/js/main.5e24768f.js",
     "static/media/fa-solid-900.ttf": "/Pavan.Edirisingha/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/Pavan.Edirisingha/static/media/fa-brands-400.1815e00441357e01619e.ttf",
     "static/media/fa-solid-900.woff2": "/Pavan.Edirisingha/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
@@ -12,10 +12,10 @@
     "static/media/fa-v4compatibility.woff2": "/Pavan.Edirisingha/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/Pavan.Edirisingha/index.html",
     "main.0a2e26ba.css.map": "/Pavan.Edirisingha/static/css/main.0a2e26ba.css.map",
-    "main.0f814051.js.map": "/Pavan.Edirisingha/static/js/main.0f814051.js.map"
+    "main.5e24768f.js.map": "/Pavan.Edirisingha/static/js/main.5e24768f.js.map"
   },
   "entrypoints": [
     "static/css/main.0a2e26ba.css",
-    "static/js/main.0f814051.js"
+    "static/js/main.5e24768f.js"
   ]
 }
